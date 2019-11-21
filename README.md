@@ -1,5 +1,6 @@
 # Angular Fix Errors.
-
+note: go here for more help: https://angular.io/tutorial
+note: go here for more help: https://softstack-factory.gitbook.io/mean-stack/wk4/error-debugging-in-angular/angular-errors-challenge
 This repo will help you run through many common errors in angular.
 Each branch has a different challenge. For more detail view  [Angular-Fix-Errors-Challenge](https://softstack-factory.gitbook.io/mean-stack/wk4/error-debugging-in-angular/angular-errors-challenge)
 
